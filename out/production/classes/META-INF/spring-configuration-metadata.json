@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.dylan.springbootconfigtest.config.PropertyConfig",
+      "name": "demo",
+      "type": "com.dylan.springbootconfigtest.config.PropertyConfig"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.dylan.springbootconfigtest.config.PropertyConfig",
+      "name": "demo.body",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.dylan.springbootconfigtest.config.PropertyConfig",
+      "name": "demo.name",
+      "type": "java.lang.String"
+    }
+  ]
+}
